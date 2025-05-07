@@ -34,5 +34,7 @@ modifier = Modifier
 
 ![image alt](https://github.com/ramand33pp/duo_navigation/blob/master/Screenshot_20250508_012729.png?raw=true)
 
+[](https://github.com/user-attachments/assets/fbecab4f-4c4d-4f8f-b3b2-bea9c0c614fe)
+
 
 
