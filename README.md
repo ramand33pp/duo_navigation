@@ -27,3 +27,12 @@ modifier = Modifier
                     scaleY = scale,
                     scaleX = scale
                 )
+
+# Screenshot
+
+![image alt](https://raw.githubusercontent.com/ramand33pp/duo_navigation/refs/heads/master/Screenshot_20250508_012714.png)
+
+![image alt](https://github.com/ramand33pp/duo_navigation/blob/master/Screenshot_20250508_012729.png?raw=true)
+
+
+
